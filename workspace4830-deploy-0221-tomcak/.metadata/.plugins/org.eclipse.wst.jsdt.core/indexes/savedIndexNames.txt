@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+/home/colin/Documents/STUPID FUCKING GARBAGE/workspace4830/workspace4830-deploy-0221-tomcak/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+195417898.index
+2479526479.index
+924579042.index
+1553152161.index
+1596017907.index
+1721330529.index
